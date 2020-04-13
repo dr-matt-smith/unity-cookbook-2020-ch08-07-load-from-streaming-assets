@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 292302988
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cubered
+      Dependencies: {}
